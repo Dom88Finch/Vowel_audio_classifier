@@ -9,4 +9,4 @@ Modern audio classification uses deep learning techniques which reduces the requ
 
 
 The Full Analysis of the different models can be found in the document below 
-![Full Report Analysis](https://github.com/Dom88Finch/Vowel_audio_classifier/blob/2f50cc22d4ed90a22ae0c6d9932b919462ecb01d/Report-Deep_learning_for_Audio_and_Music_final_report_p.pdf)
+![Full Report Analysis](Report-Deep_learning_for_Audio_and_Music_final_report_p.pdf)
